@@ -51,7 +51,7 @@ View Live:-
 
 ## 📁 Project Structure
 
-```
+
 
 portfolio/
 │── index.html
@@ -66,36 +66,35 @@ portfolio/
 │── prajwal.html
 │── swayam.html
 
-````
 
----
+
+
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-````
+   bash
+   git clone https://github.com/Prajwalnaik4563/Combine
+
 
 2. **Open the project**
 
-   ```bash
+   bash
    cd portfolio
-   ```
+  
 
 3. **Run locally**
 
    * Simply open `index.html` in your browser
      *(No build tools or dependencies required)*
 
----
+
 
 ## 🎯 Keyboard Shortcuts
 
 * **Enter** → Skip intro & enter portfolio
 * Scroll to explore sections with animations
 
----
 
 ## 🧠 Customization
 
@@ -106,7 +105,7 @@ You can easily customize:
 * Scroll & interaction logic in `script.js`
 * Profile pages (`prajwal.html`, `swayam.html`)
 
----
+
 
 ## 📌 Future Enhancements (Planned)
 
